@@ -46,4 +46,5 @@ git branch
  2. Accept incoming changes
  3. Accept both changes
  4. Compare changes
+ После разрешения конфликта нужно обязательно создать коммит слияния
  
